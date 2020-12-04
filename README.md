@@ -38,3 +38,4 @@ La poligonal se dibuja a través de uno de los siguientes métodos:
 - En un archivo CAD a traves de una librería externa
 
 [Universidad Distrital](https://www.udistrital.edu.co)
+**Evelio Madera**
